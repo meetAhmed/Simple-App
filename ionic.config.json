@@ -1,0 +1,7 @@
+{
+    "name": "com.drafthouse.simple-app",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+}
