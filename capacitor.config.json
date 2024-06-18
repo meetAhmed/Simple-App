@@ -1,6 +1,6 @@
 {
     "appId": "com.drafthouse.simple-app",
     "appName": "Simple App",
-    "webDir": "build"
+    "webDir": "public"
   }
 
