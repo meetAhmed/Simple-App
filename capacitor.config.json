@@ -1,6 +1,5 @@
 {
-    "appId": "com.drafthouse.simple-app",
-    "appName": "Simple App",
-    "webDir": "public"
-  }
-
+  "appId": "com.drafthouse.com.simple.app",
+  "appName": "Simple App",
+  "webDir": "build"
+}
